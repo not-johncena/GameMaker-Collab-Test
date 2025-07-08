@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_friend",
+  "%Name":"obj_player",
   "eventList":[],
   "managed":true,
-  "name":"obj_friend",
+  "name":"obj_player",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_friend",
-    "path":"sprites/spr_friend/spr_friend.yy",
+    "name":"spr_player",
+    "path":"sprites/spr_player/spr_player.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -35,9 +35,9 @@
   },
   "name":"Collab Test",
   "resources":[
-    {"id":{"name":"obj_friend","path":"objects/obj_friend/obj_friend.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_friend","path":"sprites/spr_friend/spr_friend.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
