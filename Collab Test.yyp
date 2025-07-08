@@ -36,6 +36,7 @@
   "name":"Collab Test",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_friend","path":"sprites/spr_friend/spr_friend.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
